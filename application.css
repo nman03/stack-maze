@@ -1,0 +1,31 @@
+.wall {
+	-fx-border-color: black;
+	-fx-background-color: black;
+	-fx-min-width: 20;
+	-fx-min-height: 20;
+}
+
+.space {
+	-fx-border-color: black;
+	-fx-background-color: lightyellow;
+	-fx-min-width: 20;
+	-fx-min-height: 20;
+}
+
+.start {
+	-fx-border-color: black;
+	-fx-background-color: cyan;
+	-fx-min-width: 20;
+	-fx-min-height: 20;
+	-fx-font-weight: bold;
+	-fx-alignment: center;
+}
+
+.end {
+	-fx-border-color: black;
+	-fx-background-color: cyan;
+	-fx-min-width: 20;
+	-fx-min-height: 20;
+	-fx-font-weight: bold;
+	-fx-alignment: center;
+}
